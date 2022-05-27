@@ -5,7 +5,7 @@
 * Machine Learning
 * Deep Learning
 * Natural Language Processing 
-* MLOps
+* MLOps and AIOps
 
 
 <h3 align="left">Languages and Tools:</h3>
