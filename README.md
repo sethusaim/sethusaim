@@ -2,10 +2,10 @@
 <h1 align="center">I'm Sethu Sai Medamallela</h1>
 
 ### I have technical experience and interest in -
-* Machine Learning
+* MLOps and DevOps
 * Deep Learning
 * Natural Language Processing 
-* MLOps and AIOps
+* Machine Learning
 
 See my <a href="https://drive.google.com/file/d/1NirwXFo1QphmLjMbFvvYDrQfQsMtsAli/view?usp=share_link">Resume</a> to get more info.</br></h6>
 
